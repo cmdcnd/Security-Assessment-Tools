@@ -24,6 +24,7 @@ Periodically run an all ports NMAP scan
 Periodically run an all ports NMAP scan  
 
 ##### TASK: 16.8 – PENETRATION TEST EXTERNAL WEB APPLICATION MISCONFIGURATIONS AND EXPOSURES  
+* [Eyewitness](https://github.com/FortyNorthSecurity/EyeWitness)  
 * [Burpsuite](https://portswigger.net/burp)  
 * [ZAP Proxy](https://www.zaproxy.org/)  
 
@@ -54,6 +55,7 @@ Password lists
 Periodically run an all ports NMAP scan  
 
 ##### TASK: 17.4 – PENETRATION TEST INTERNAL WEB SITE/APPLICATION RISKS  
+* [Eyewitness](https://github.com/FortyNorthSecurity/EyeWitness)  
 * [Burpsuite](https://portswigger.net/burp)  
 * [ZAP Proxy](https://www.zaproxy.org/)   
 
